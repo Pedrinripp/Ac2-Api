@@ -28,3 +28,4 @@ python -m venv .venv
 14. Criar dockerfile⌢愠楰浟彳敤≶ഠ�
 
 <img src="banco.PNG">
+<img src="banco.conexao">
