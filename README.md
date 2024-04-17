@@ -28,8 +28,13 @@ python -m venv .venv
 14. Criar dockerfile⌢愠楰浟彳敤≶ഠ�
 
 <img src="banco.PNG">
+
 <img src="conexao.png">
+
 <img src="longin.png">
+
 <img src="senha_user.png">
+
 <img src="user_login.png">
+
 <img src="usuario post.PNG">
