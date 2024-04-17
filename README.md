@@ -27,4 +27,4 @@ python -m venv .venv
 13. Subir no git com gitigone
 14. Criar dockerfile⌢愠楰浟彳敤≶ഠ�
 
-<img src="banco.png">
+<img src="banco.PNG">
